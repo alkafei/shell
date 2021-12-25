@@ -1,1 +1,1 @@
-# shell
+Shell otp dari sms-activate
